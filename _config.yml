@@ -2,15 +2,13 @@
 title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Buy and Sell your used cell phones, tablets, laptops, and other consumer electronics! We pay more for your device than all major competitors. Check out our website and contact us!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
+email: customerservice@platinumwireless.solutions
 facebook_username:
 twitter_username:
 github_username:
@@ -19,7 +17,7 @@ address:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright: Platinum Wireless Solutions, LLC
 
 # API settings
 google_api_key:
