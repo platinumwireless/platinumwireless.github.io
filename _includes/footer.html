@@ -10,6 +10,12 @@
           {% endfor %}
         </p>
         <ul class="list-unstyled">
+	  <form action="https://formspree.io/your@email.com"
+     		method="POST">
+    	  	<input type="text" name="name">
+    	  	<input type="email" name="_replyto">
+    	  	<input type="submit" value="Send">
+	  </form>
           <!--<li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>-->
           <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
           </li>
